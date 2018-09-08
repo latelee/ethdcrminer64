@@ -1,0 +1,1 @@
+POOL: asia.sparkpool.com:3333, WALLET: 0x778e4f8c2a8cf93b21022dac5981394ea3113155.debuglee3, PSW: x, ESM: 1, ALLPOOLS: 0
